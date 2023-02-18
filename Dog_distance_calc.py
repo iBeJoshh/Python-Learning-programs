@@ -1,3 +1,5 @@
+#Joshua Adkins 2/18/23
+
 speed=int(input("How fast did Brutus run?   "))
 time=int(input("How many hours did Brutus play?   "))
 
